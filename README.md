@@ -1,6 +1,1 @@
-# 1234
-# 1234
-# 1234
-# 1234
-# 5678
-1234
+# [You can find information about RISC products from this link.](https://github.com/AE-public/wiki/wiki)
