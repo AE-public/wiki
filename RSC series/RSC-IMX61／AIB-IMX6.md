@@ -33,7 +33,7 @@ $cd android4
 ./run.sh
 ```
 Select 24 to compile Android4.4 image  
-![rsc-imx61_android_compiler1]( /images/RSC-IMX61-Android/rsc-imx61_android_compiler1.png)
+![rsc-imx61_android_compiler1](https://github.com/Avalue-AE/wiki/blob/master/images/RSC-IMX61-Android/rsc-imx61_android_compiler1.png?raw=true)
 ![rsc-imx61_android_compiler2]( /images/RSC-IMX61-Android/rsc-imx61_android_compiler2.png)
 
 You can find Android image files in path `linux-imx/out/target/product/aib`  
