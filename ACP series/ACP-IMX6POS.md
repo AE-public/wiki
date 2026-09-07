@@ -31,7 +31,7 @@ cd Android
 ```
 
 You can find all image files in path `Android/out/target/product/smarc/`
-![acp-imx6pos_compiler1.png](../images/ACP-IMX6POS-Android/acp-imx6pos_compiler1.png)
+![acp-imx6pos_compiler1.png](https://github.com/Avalue-AE/wiki/blob/master/images/ACP-IMX6POS-Android/acp-imx6pos_compiler1.png?raw=true)
 
 | Image File     | Description                       |
 |:---------------|:----------------------------------|
@@ -163,10 +163,10 @@ cd uboot-imx
 > If want to flash image to SD, replace emmc to sd  
 
 You can find Kernel image files in path `linux-imx/out`  
-![rsc-imx61_yocto_kernel](../images/RSC-IMX61-Yocto/rsc-imx61_yocto_kernel.png)
+![rsc-imx61_yocto_kernel](https://github.com/Avalue-AE/wiki/blob/master/images/RSC-IMX61-Yocto/rsc-imx61_yocto_kernel.png?raw=true)
 
 You can find Uboot image files in path `uboot-imx/out`  
-![rsc-imx61_yocto_uboot](../images/RSC-IMX61-Yocto/rsc-imx61_yocto_uboot.png)
+![rsc-imx61_yocto_uboot](https://github.com/Avalue-AE/wiki/blob/master/images/RSC-IMX61-Yocto/rsc-imx61_yocto_uboot.png?raw=true)
 
 ## Install image
 

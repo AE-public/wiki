@@ -65,25 +65,25 @@ Download MfgTool for Android from Hyperlink below
 [無連結]()
 
 1. Set JBTSL1 on RITY8R1 as below to serial download mode  
-![acp-imx6pos_jbtsl1.png](../images/RITY%20serious/acp-imx6pos_jbtsl1.png)
+![acp-imx6pos_jbtsl1.png](https://github.com/Avalue-AE/wiki/blob/master/images/RITY%20serious/acp-imx6pos_jbtsl1.png?raw=true)
 
 1. Use mini-USB cable to connect JMUSB1 on RITY8R1 to Windows 7
 system.  
 1. Run “MFG-Helper.exe” on the path
 (~\RITY_POS-Android-MfgTools\Mfg-POS)  
 3-1. Please select as below for Dual lite then click “Run MFG-Tools”  
-![solo.jpg](../images/RITY%20serious/solo.jpg)
+![solo.jpg](https://github.com/Avalue-AE/wiki/blob/master/images/RITY%20serious/solo.jpg?raw=true)
   
 3-2. Please select as below for Quad core then click “Run MFG-Tools”  
-![pos_mfg_quad.jpg](../images/RITY%20serious/pos_mfg_quad.jpg)
+![pos_mfg_quad.jpg](https://github.com/Avalue-AE/wiki/blob/master/images/RITY%20serious/pos_mfg_quad.jpg?raw=true)
   
 3-3. Press “Start” to flash image files  
-![mfgtool_start.png](../images/RITY%20serious/mfgtool_start.png)  
+![mfgtool_start.png](https://github.com/Avalue-AE/wiki/blob/master/images/RITY%20serious/mfgtool_start.png?raw=true)  
 4. It will show “Done” after flashing is finish, then click “Stop” and
 “Exit” to close the screen.  
-![mfgtool_finish.png](../images/RITY%20serious/mfgtool_finish.png)  
+![mfgtool_finish.png](https://github.com/Avalue-AE/wiki/blob/master/images/RITY%20serious/mfgtool_finish.png?raw=true)  
 5. Set SW1 as below to boot from eMMC  
-![pin_1_on.jpg](../images/RITY%20serious/pin_1_on.jpg)
+![pin_1_on.jpg](https://github.com/Avalue-AE/wiki/blob/master/images/RITY%20serious/pin_1_on.jpg?raw=true)
 
 6. Restart the system then boot in Android  
 
